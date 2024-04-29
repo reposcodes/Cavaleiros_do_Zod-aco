@@ -1,1 +1,3 @@
-# Cavaleiros_do_Zod-aco
+# Cavaleiros_do_Zodiaco
+
+Baixe as imagens para seguir com o desenvolvimento do projeto
